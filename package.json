@@ -1,0 +1,8 @@
+{
+	"name": "hisa-hello-cli",
+	"version": "1.0.0",
+	"license": "MIT",
+	"bin": {
+		"hisa-hello-cli": "index.js"
+	}
+}
